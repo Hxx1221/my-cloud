@@ -1,0 +1,2 @@
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+#com.springstarter.hxx.springbootstarterdemo.config.UserAutoConfigure
